@@ -75,9 +75,9 @@ body {
 
 #buttons-container #equal-button {
     grid-column: span 2;
-    background-color: #75a5cb;
+    background-color: #e29117;
 }
 
 #buttons-container #equal-button:hover {
-    background-color: #3d8dce;
+    background-color: #d3a013;
 }
